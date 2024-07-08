@@ -117,3 +117,38 @@ align-items: center;
 margin-top: 90px;
 padding-left: 200px;
 }
+/* address style */
+.address-container{
+  width: 1320px;
+  height: 482px;
+  
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  align-items: center;
+ background-image: linear-gradient(to bottom right, rgb(255, 214, 214), rgb(240, 229, 223));
+}
+.address-content{
+  width: 649px;
+  height: 350px;
+ 
+  text-align: center;
+  font-size: 30px;
+  font-weight:600;
+  padding: 30px;
+}
+.red{
+  color: red;
+}
+.btn{
+  width: 167px;
+  height: 56px;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 16px;
+  margin-top: 30px;
+  border: none;
+}
