@@ -223,10 +223,11 @@ padding-left: 200px;
   height: 986px;
   margin: 0 auto;
   /* border: 1px solid red; */
-  margin-top: 50px;
+  margin-top: 70px;
   background-image: url(../images/Rectangle\ 2.png);
   background-repeat: no-repeat;
  background-position: bottom;
+ 
 
 }
 .holiday-sale-title{
@@ -253,8 +254,36 @@ padding-left: 200px;
   width: 674px;
   height: 577px;
   margin-top: 170px;
+
 }
 .holiday-image .right-img{
   margin-bottom: 250px;
   margin-left: 320px;
+}
+/* gift style */
+.gift-container{
+  width: 1320px;
+  height: 1163px;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+  margin-top: 90px;
+}
+.gift-title{
+  color: red;
+  font-size: 20px;
+}
+.gift-heading{
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+.gift-description{
+  font-size: 20px;
+  margin-top: 10px;
+  color: gray;
+  width: 70%;
+  margin-bottom: 50px;
+}
+.gift-image img{
+ padding: 5px;
 }
