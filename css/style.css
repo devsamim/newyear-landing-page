@@ -217,4 +217,44 @@ padding-left: 200px;
   height: 364px;
   
 }
+/* holiday sale style */
+.holiday-sale-container{
+  width: 1320px;
+  height: 986px;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+  margin-top: 50px;
+  background-image: url(../images/Rectangle\ 2.png);
+  background-repeat: no-repeat;
+ background-position: bottom;
+
+}
+.holiday-sale-title{
+  font-size: 20px;
+  text-align: center;
+ padding-bottom: 15px;
  
+ 
+}
+.holiday-sale-heading{
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+}
+.holiday-sale-description{
+  font-size: 20px;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+  color: rgb(159, 159, 159);
+ 
+}
+.holiday-image .left-img{
+  width: 674px;
+  height: 577px;
+  margin-top: 170px;
+}
+.holiday-image .right-img{
+  margin-bottom: 250px;
+  margin-left: 320px;
+}
