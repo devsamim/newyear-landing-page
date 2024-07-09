@@ -285,5 +285,64 @@ padding-left: 200px;
   margin-bottom: 50px;
 }
 .gift-image img{
- padding: 5px;
+margin-right: 0;
+padding: 10px;
+ 
+ width: 436px;
+ height: 450px;
+}
+.subscribe-container{
+  width: 1320px;
+  height: 616px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid red;
+  background-image: linear-gradient(to bottom right, rgb(255, 214, 214), rgb(240, 229, 223));
+  
+  
+}
+.subs-content{
+
+
+}
+.content-img{
+margin-left: 590px;
+margin-bottom: 50px;
+}
+.subs-heading{
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 15px; 
+  text-align: center;
+}
+.subs-description{
+  font-size: 20px;
+  margin-top: 10px;
+  color: gray;
+  margin-bottom: 50px;
+  padding:0px 212px 0 212px;
+  text-align: center;
+}
+.input-btn{
+  width: 590px;
+  height: 72px;
+  border-radius: 50px 0px 0px 50px;
+  border: none;
+  background-color: #fff;
+  outline: none;
+  font-size:20px;
+}
+.subs-btn{
+  width: 210px;
+  height: 72px;
+  border-radius: 0px 50px 50px 0px;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: red;
+  border: none;
+
+  color: white;
+}
+.subs-div{
+  text-align: center;
 }
